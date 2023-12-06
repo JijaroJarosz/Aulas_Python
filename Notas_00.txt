@@ -1,0 +1,3 @@
+Para concatenar strings no python pode-se usar '+', só funciona com strings.
+
+
